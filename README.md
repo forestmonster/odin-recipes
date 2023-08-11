@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes website for Odin Project.
+A place to try things.
